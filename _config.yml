@@ -2,8 +2,8 @@
 title: Wise Anser
 email: mail@wiseanser.com
 description: "The Wise Anser helps you to integrate Getting Things Done (GTD) in your digital workflow."
-baseurl: "/blog"
-url: "http://wiseanser.com"
+url: "/blog"
+baseurl: "http://wiseanser.com"
 twitter_username: wiseanser
 github_username:  efelcie
 

@@ -1,11 +1,12 @@
 # Site settings
-title: Wise Anser
+title: Wise Anser	
 email: mail@wiseanser.com
-description: "The Wise Anser helps you to integrate Getting Things Done (GTD) in your digital workflow."
-url: "/blog"
-baseurl: "http://wiseanser.com"
-twitter_username: wiseanser
-github_username:  efelcie
+description: 	"Wise Anser is a blog which brings 
+				structure to your digital live."
+baseurl: "blog"
+url: "http://wiseanser.com"
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
 markdown: kramdown

@@ -4,7 +4,7 @@ email: mail@wiseanser.com
 description: 	"Wise Anser is a blog which brings 
 				structure to your digital live."
 baseurl: "blog"
-url: "http://wiseanser.com"
+url: "http://wiseanser.com/blog"
 twitter_username: jekyllrb
 github_username:  jekyll
 

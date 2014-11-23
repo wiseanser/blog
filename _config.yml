@@ -5,8 +5,8 @@ description: 	"Wise Anser is a blog which brings
 				structure to your digital live."
 baseurl: "/blog"
 url: "http://wiseanser.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: wiseanser
+github_username:  efelcie
 
 # Build settings
 markdown: kramdown

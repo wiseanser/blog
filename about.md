@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+In a time where are so many things to do, we believe in a meaningful structure and imagine a world of creative people who are **focused at the work that they love.**
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+That is why we are a team who want to support artist. We develop an app, for the digital avantgarde who want to create awesome things, to help them to organizing their digital stuff.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Other than usual productivity apps we are able to clean your mess and help you to build a stable, trusting and meaningful structure of all your digital stuff and we will not stop until every artist know their is a trustful app which helps you to rock the world.

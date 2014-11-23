@@ -9,7 +9,7 @@
 html, body { height: 100%; }
 
 body {
-  font-family: "Frutiger Next W01", Helvetica, Arial, sans-serif;
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
   font-size: 18px;
   line-height: 1.5;
   font-weight: 300;
@@ -239,7 +239,7 @@ a:visited { color: #205caa; }
   overflow:scroll;
 }
 
-.post code { padding: 1px 5px; }
+.post code { padding: 1px 5px; font-family: 'Source Code Pro' ;}
 
 .post ul,
 .post ol { margin-left: 1.35em; }

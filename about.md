@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About this blog
 permalink: /about/
 ---
 
@@ -9,6 +9,8 @@ In a time of multitasking we still believe in the words of David Allen and imagi
 That is why we are a team of gtd-enthusiasts that develop an simple app which is organizing all tasks, mails and files for apple-user who want to escape their digital mess and search for an app that really helps to focus on the creative work that they love.
 
 Other than gtd-apps like OmniFocus we are able to build a stable and trusting structure based on your file system up to 50.000 feet  that you really can forget on the runway and we will not stop until every digital native gtd-fan knows there is a working way to get your things done with your Mac and iPhone.
+
+We will launch on Kickstarter at the Christmas eve 2014. Is this possible? Here we blog about how we prepare our campaign and show your relevant information. What is working and what is failing?
 
 ###**Tell it your creative friends and support our kickstarter campaign to make it real!**
 
